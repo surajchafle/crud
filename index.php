@@ -22,7 +22,7 @@
 <body>
 
 <div class="manageMember">
-	<a href="create.php"><button type="button">Add Member</button></a>
+	<a href="create.php"><button type="button">Add Member In a Group</button></a>
 	<table border="1" cellspacing="0" cellpadding="0">
 		<thead>
 			<tr>
